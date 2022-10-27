@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: darkslategray;
+}
+.line{
+    color:orangered;
+    margin-top: 50px;
+}   
+.hero-section{
+    text-align: center;
+    text-decoration: underline;
+}
+

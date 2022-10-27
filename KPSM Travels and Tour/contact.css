@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+input[type=text]{
+    width:30vw;
+}
+input[type=email]{
+    width:30vw;
+}
+inout[type=textarea]{
+    width:30vw;
+}
+
+  
